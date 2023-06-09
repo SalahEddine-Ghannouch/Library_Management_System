@@ -1,7 +1,6 @@
 # Library Management System
 
-![Library Management System Logo](![home1](https://github.com/SalahEddine-Ghannouch/Gestion_Bibliotheque/assets/79339578/8a6881cd-3eb9-452c-bacf-85e2a2b13bd2)
-)
+![home1](https://github.com/SalahEddine-Ghannouch/Gestion_Bibliotheque/assets/79339578/8a6881cd-3eb9-452c-bacf-85e2a2b13bd2)
 ![category-children 1](https://github.com/SalahEddine-Ghannouch/Gestion_Bibliotheque/assets/79339578/44a8d220-6ebe-4ec7-9586-704fd9ab927a)
 ![page-personnelle1](https://github.com/SalahEddine-Ghannouch/Gestion_Bibliotheque/assets/79339578/267a6434-9c62-4bab-96fa-43ff5db77a4c)
 
